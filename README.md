@@ -8,6 +8,8 @@ by following the [tutorial](https://testdriven.io/blog/dockerizing-flask-with-po
 
 Example of uploading and viewing an image through this Flask app is shown below:
 
+<img src=gif_flask_on_docker.gif width=600px />
+
 ## Build Instructions
 
 Before starting, clone this repository and go to the project directory
